@@ -22,7 +22,7 @@ console.log(myString);
 // 5
 
 let myNumber = 993;
-myNumber -= 10;
+myNumber += 10;
 
 console.log(myNumber);
 
